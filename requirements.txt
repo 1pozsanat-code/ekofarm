@@ -1,3 +1,0 @@
-Flask
-gunicorn # Uygulamanın Vercel'de çalışması için gereklidir
-google-genai # AI model kütüphaneniz
