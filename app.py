@@ -4,7 +4,7 @@ import os
 from google import genai 
 
 # Uygulamayı başlat
-app = Flask(__name__)
+app = Flask(__ekofarm__)
 
 # API Anahtarını Ortam Değişkeninden Al
 # Vercel'de ayarladığınız GEMINI_API_KEY değişkenini burada okuyacak.
